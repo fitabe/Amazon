@@ -1,0 +1,29 @@
+.make {
+
+  color: white !important;
+   /* font-weight: 450 !important; */
+   font-weight: bold;
+
+  font-size: 105% !important
+}
+.me-auto {
+  font-size: 98%;
+  /* font-weight: 10; */
+
+
+}
+ a{
+  color: white !important;
+/* border: 1.5 px solid #c0610e !important  */
+
+
+}
+.me-auto .border-white li a{
+ border: 1.5 px solid #fff,
+}
+.border-white:hover{
+}
+ .action-prime {
+/* background-color: black; */
+color:black !important
+}

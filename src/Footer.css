@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+ 
+
+}
+
+
+
+.navFooterVerticalColumn {
+    border: none; 
+      /* cursor: pointer;
+  color: #fff;
+  outline: none;
+  /* font-weight: 700; */
+  /* border-radius: 0.2vw; */
+  /* padding-left: 2rem;
+  padding-right: 2rem;
+  margin-right: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem; */
+  /* background-color: rgba(51, 51, 51, 0.5); */
+  /* Add your styles here */
+   /* display: flex;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  /* padding: 20px;  */
+  /* text-decoration: none; */
+ /* list-style-type: none; */
+
+}
+
+ li a{
+     color: #fff; 
+ text-decoration: none;
+ list-style-type: none;
+    
+
+
+}
+.navFooterVerticalColumn .navAccessibility {
+    display: flex;
+  margin: 0 auto;
+ }
+.navFooterVerticalRow {
+    padding: 4%;
+    background-color: black;
+ 
+
+}
+
+.navFooterVerticalColumn .navAccessibility li {
+  
+ text-decoration: none;
+ list-style-type: none;
+
+ 
+}
+
+.navFooterLinkCol {
+  /* color: #fff; */
+   color: #fff;
+
+}
+
+
+.btn{
+     color: #fff;
+    margin-left:45% ;
+    
+}
+
+
+.click{
+     color: #fff;
+
+    display: flex;
+    /* padding-left: 20px; */
+    background-color: rgb(13, 25, 25);
+    
+}
+
+.head{
+font-weight: 700;
+}
+.navFooterLogoLine{
+ display: flex;
+ justify-content: center;
+}
+
+.logo {
+ 
+  /* height: auto; */
+  width: 4%;
+  /* padding: 10px; */
+  margin-left: 5%;
+   /* text-decoration: none; */
+ /* list-style-type: none; */
+}
+
+.ama{
+  width: 45px;
+}
+.btn2{
+     color: #fff;
+    /* margin-left:95% ; */
+  height: 100%;
+    
+}
+.nav-logo-baseA{
+   text-decoration: none;
+ list-style-type: none;
+}

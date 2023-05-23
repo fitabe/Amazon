@@ -1,0 +1,22 @@
+.wholeRapper{
+    /* height:100%; */
+     display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  /* margin: 10px;
+  padding: 20px; */
+  width: 100%;
+  max-height: 400px;
+  min-width: 100px;
+  background-color: white;
+  z-index: 1;
+  box-shadow: 0 6px 18px -9px rgba(0, 0, 0, 0.75);
+  transition: transform 0.1s ease-in;
+}
+/* .promotion{
+  color: #581414;
+  font-size: larger;
+  margin-bottom: 600px;
+  padding-bottom: 180%;
+} */

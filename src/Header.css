@@ -1,0 +1,143 @@
+.header {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background-color: #131921;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.header__logo {
+  width: 70px;
+  object-fit: contain;
+  margin: 0 20px;
+  margin-top: 18px;
+}
+.Select-address {
+  margin-bottom: 2%;
+
+  font-size: 70%;
+  font-weight: bold;
+}
+
+.All-select {
+  /* padding: 1px; */
+  height: 33px !important;
+  background-color: #fcf6f6;
+  border-radius: 4px;
+  margin-left: 5px;
+}
+a:hover {
+  border: 1px solid white !important;
+}
+.border-white:hover {
+  border: 1px solid white !important;
+  /* padding: 1px; */
+  /* height: 34px !important; */
+  /* background-color: #fcf6f6; */
+  /* border: 4px #fff; */
+}
+.header__searchIcon {
+  padding: 5px;
+  height: 32px !important;
+  background-color: #cd9042;
+}
+.header__search {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  border-radius: 24px;
+  border-radius: 3px;
+  border: none;
+}
+.header__searchInput {
+  height: 1px;
+  padding: 16px;
+  border: none;
+  width: 100%;
+}
+.header__option {
+  display: flex;
+  flex-direction: column;
+  margin-left: 15px;
+  margin-right: 15px;
+  color: white;
+}
+.header__nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+.header__optionLineOne {
+  font-size: 10px;
+}
+
+.header__optionLineTwo {
+  font-size: 70%;
+  font-weight: 800;
+}
+
+.header__optionBasket {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+.header__basketCount {
+  margin-left: 1px;
+  margin-right: 20px;
+  font-size: large;
+}
+.header__clearlink {
+  text-decoration: none;
+}
+/* .icp-nav-flag {
+    width: 24px;
+    position: relative;
+    display: inline-block;
+    height: 18px;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 3px;
+    background-image: url(https://m.media-amazon.com/images/S/sash/fe2UeLQmJ11kKHN.png);
+    background-position: -144px -202px;
+} */
+/* *********** Address*********** */
+.Address-container {
+  display: flex;
+  color: #fff;
+  font-size: 70%;
+  padding: 7px;
+  margin-top: 0%;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+/* language section  */
+.US {
+  display: flex;
+  padding: 2px;
+  margin-left: 5px;
+}
+.US a {
+  display: flex;
+  padding: 20px;
+  text-decoration: none;
+  list-style-type: none;
+}
+.language-container {
+  font-size: 0.8rem;
+  margin-left: 6px;
+  color: #fff;
+  padding-top: 3px;
+  font-weight: bolder;
+  text-decoration: none;
+  /* list-style-type: none; */
+}
+
+.language-image {
+  width: 20px;
+  /* padding-top: 20px; */
+  margin-left: 2px;
+}
+.language-image img {
+  width: 100%;
+}
